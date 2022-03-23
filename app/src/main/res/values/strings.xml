@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Test</string>
+    <string name="where">Откуда</string>
+    <string name="arrival">Куда</string>
+    <string name="show_schedule">Показать расписание</string>
 </resources>
