@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
@@ -10,19 +9,19 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <com.google.android.material.textview.MaterialTextView
+        <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/cityDepartures"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="@dimen/textSizeCity"
-            tools:text="@string/where" />
+            android:hint="@string/where"
+            android:textSize="@dimen/textSizeCity" />
 
-        <com.google.android.material.textview.MaterialTextView
+        <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/cityArrival"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="@dimen/textSizeCity"
-            tools:text="@string/arrival" />
+            android:hint="@string/arrival"
+            android:textSize="@dimen/textSizeCity" />
 
         <com.google.android.material.button.MaterialButton
             android:layout_width="match_parent"
@@ -34,10 +33,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <EditText
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Здесь может быть история запросов" />
+            android:text="Здесь будет история запросов" />
 
     </androidx.core.widget.NestedScrollView>
 
