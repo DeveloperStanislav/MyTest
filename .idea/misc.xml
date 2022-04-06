@@ -4,7 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/activity_main.xml" value="0.17391304347826086" />
-        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/fragment_main.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/fragment_list_schedule.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/fragment_main.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/fragment_search_city.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/item_list_schedule.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/item_recycler_city_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/item_recycler_history_schedule.xml" value="0.1140625" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/item_recycler_list_schedule.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MyTest/app/src/main/res/layout/item_recycler_station_list.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>

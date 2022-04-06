@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="textSizeCity">25sp</dimen>
+    <dimen name="text_size_station_recycler">22sp</dimen>
+    <dimen name="text_size_list_date">20sp</dimen>
 </resources>

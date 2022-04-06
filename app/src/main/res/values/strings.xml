@@ -1,6 +1,16 @@
 <resources>
-    <string name="app_name">My Test</string>
+    <string name="app_name">Расписание</string>
     <string name="where">Откуда</string>
     <string name="arrival">Куда</string>
     <string name="show_schedule">Показать расписание</string>
+    <string name="station_from">Станция отправления</string>
+    <string name="time_from">Время отпр-ния</string>
+    <string name="station_to">Станция прибытия</string>
+    <string name="time_to">Время прибытия</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">Дата</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="today">Сегодня</string>
+    <string name="station">Станция</string>
 </resources>

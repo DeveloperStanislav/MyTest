@@ -17,9 +17,10 @@ class MainActivity : AppCompatActivity() {
 
         if (savedInstanceState == null) {
             supportFragmentManager.beginTransaction()
-                .replace(R.id.fragment_conteiner, MainFragment.newInstance())
+                .replace(R.id.fragment_container, MainFragment.newInstance(Bundle().apply {
+
+                }))
                 .commit()
         }
     }
-
 }
